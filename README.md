@@ -112,11 +112,11 @@ CPE 471 Final Project
 </head>
 
 <body><div class="wrapper"><section id="content">
-
+<center>
 <h1>Web City</h1>
 
 <h4>Christopher Middleton - CSC 471 - Winter 2022 - Christian Eckhardt</h4>
-
+</center>
 <article> <!-- This adds padding at the top and bottom -->
 
 
