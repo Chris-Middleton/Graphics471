@@ -3,7 +3,7 @@ CPE 471 Final Project
 
 <html><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <title>Webpage Title</title>
+  <title>Chris Middleton - Web City</title>
 
   <link href="index_files/css.css" rel="stylesheet" type="text/css">
 
@@ -131,6 +131,7 @@ buildings, with people, sidewalks, and roads running throughout. There
 is also a day/night cycle, with proper lighting techniques taken into 
 account in the shaders. </p>
 <p><a href="https://youtu.be/ABBAyJ2aTtA">For a short video demo of the game, click here.</a></p>
+<p><a href="https://youtu.be/ABBAyJ2aTtA">To download a zip of the visual studio solution, click here.</a></p>
 <center>
   <a>
     <img src="WebScreenshot1.png" width="90%">
